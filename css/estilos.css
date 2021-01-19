@@ -16,7 +16,7 @@ body {
 }
 
 .container .cabecera {
-    background: royalblue;
+    background: crimson;
     color: #ffffff;
     font-weight: bold;
     padding: 1em;
@@ -28,4 +28,8 @@ body {
 
 .container .post h1 {
     font-size: 20px;
+}
+
+.container .post p {
+    padding: 1em;
 }
