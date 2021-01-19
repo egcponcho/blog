@@ -11,11 +11,21 @@ body {
 
 .container {
     width: 70%;
-    padding: 1em;
     border: 1px solid #cccccc;
     margin: 10px auto;
 }
 
-.container h1 {
+.container .cabecera {
+    background: royalblue;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 1em;
+}
+
+.container .post {
+    padding: 1em;
+}
+
+.container .post h1 {
     font-size: 20px;
 }
