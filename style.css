@@ -1,3 +1,13 @@
 body {
    text-align: center;
 }
+
+.cabecera {
+   background-color: blue;
+   padding: 10px;
+}
+
+.cabecera h1 {
+   color: white;
+   font-size: 50px;
+}
